@@ -1,4 +1,6 @@
-Perl-Poloniex-CryptoExchange
+Poloniex API wrapper
 ============================
 
-This is a port of Polo' PHP API Wrapper.
+The constructor takes 2 parameters, your key and secret. 
+
+The methods and their parameters are fairly easy to read in the code.
