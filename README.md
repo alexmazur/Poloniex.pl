@@ -18,6 +18,10 @@ Scalar::Util 'blessed';
 
 The constructor takes 2 parameters, your key and secret. 
 
+```perl
+ my ( $api_key, $api_secret ) = @_;
+```
+
 The methods and their parameters are fairly easy to read in the code.
 
 ```perl
