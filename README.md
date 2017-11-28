@@ -1,7 +1,7 @@
 Poloniex API wrapper
 ============================
 
-Just run the code and install the dependencies. I could have used non but I was in a hurrter.
+Just run the code and install the dependencies. I could have used none but I was in a hurry.
 
 ```
 Time::HiRes qw(time);
