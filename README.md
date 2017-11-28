@@ -25,7 +25,7 @@ The constructor takes 2 parameters, your key and secret.
 The methods and their parameters are fairly easy to read in the code.
 
 ```perl
-sub get_ticker($pair){}
+sub get_ticker($pair) {}
 
 sub get_trade_history($pair) {}
 
@@ -33,7 +33,7 @@ sub get_order_book($pair) {}
 
 sub get_volume($pair) {}
 
-sub get_trading_pairs(){}
+sub get_trading_pairs() {}
 
 sub get_balances() {}
 
